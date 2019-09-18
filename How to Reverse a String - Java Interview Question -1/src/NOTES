@@ -1,0 +1,5 @@
+
+
+1.Different between String and String Buffer?
+2.Do you have reverse fn in String?  ===> No due to its immutual function
+3.String Buffer have reverse function? due to mutual function
